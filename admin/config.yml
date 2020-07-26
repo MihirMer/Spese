@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: quantumx-dev/QStudio-Portfolio
+  repo: MihirMer/Spese
 
 media_folder: "assets/uploads"
 
