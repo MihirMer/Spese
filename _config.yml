@@ -6,24 +6,25 @@ facts:
   experience: 5
   projects: 25
   customers: 100
-keywords: portfolio, website, netlify, jekyll
+keywords: "portfolio, website, netlify, jekyll, resume, mihir mer, "
 author:
   resumelink: https://google.com
-  name: John Doe
+  name: Mihir Mer
   cvlink: https://google.com
-  phone: +1 123 456 7890
-  first: John
+  phone: +91 940 889 6806
+  first: Mihir
   address: Gujarat, IN
-  last: Doe
-  dob: 01 Jan 2000
-  passion: Web Developer, Graphic Designer
+  last: Mer
+  dob: 19 Nov 2000
+  passion: App Developer, Web Developer, Graphic Designer, Programmer
   languages: English, Gujarati, Hindi
-  image: /assets/uploads/creative-graphics-46-.jpg
+  image: /assets/uploads/mihir-mer.png
   nationality: INDIAN
-  email: support@quantumx.dev
-  description: I am a Web Developer from India. I am very passionate and dedicated
-    to my work. I have 5 years more work experience. I enjoy working in a team
-    or individual.
+  email: mihirmer2000@gmail.com
+  description: I am a Developer and Designer from India. I am very passionate and
+    dedicated to my work. I enjoy working in a team or individual. Have worked
+    on various Web Application and Mobile Application Projects. Excited to learn
+    new Technologies.
 social:
   facebook: mr.kaushal.p
   github: mrkp
@@ -33,6 +34,6 @@ url: ""
 collections:
   portfolio:
     output: true
-title: Spese Portfolio Theme
-description: My Site
+title: Mihir Mer
+description: My Portfolio
 baseurl: ""
